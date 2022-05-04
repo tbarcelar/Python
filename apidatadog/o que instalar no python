@@ -1,0 +1,10 @@
+
+Antes de iniciar a configuração de api é necessário verificar o que precisa ter 
+
+Segue a lista
+
+1 - pip install pandas
+2 - pip install requests
+3 - pip install datadog
+4 - pip3 install datadog-api-client
+5 - 
