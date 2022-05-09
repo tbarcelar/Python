@@ -34,4 +34,4 @@ df =pd.json_normalize(obj['usage'])
 print(df)
 
 # se quiser salvar como arquivo csv remover a hashtag abaixo
-#obj.to_csv('salvo.csv')
+#df.to_excel('salvo.xlsx')
