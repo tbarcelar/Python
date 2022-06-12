@@ -1,5 +1,5 @@
 # Python
-<img src="https://github.com/tbarcelar/tbarcelar/blob/main/meuavatar.jpg" width="500" height="500">
+<img src="https://github.com/tbarcelar/tbarcelar/blob/main/avatar.jpg" width="1000" height="250">
 
 
 
