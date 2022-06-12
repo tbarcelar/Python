@@ -9,7 +9,7 @@ Essa pagina está em construção ............
 
 ### AWS
 
-1. <a href=' https://github.com/tbarcelar/Python/blob/main/apiaws/login-ebs.py '> Como logar na AWS com api
+1. <a href='https://github.com/tbarcelar/Python/blob/main/apiaws/login-ebs.py'> Como logar na AWS com api
 2. Ver qual EBS é orfão <a href='https://github.com/tbarcelar/Python/blob/main/apiaws/ver-ebs-sem-uso.py'>
 3. Deletar EBS Orfão <a href='https://github.com/tbarcelar/Python/blob/main/apiaws/deletar-ebs-orfao.py'>
 4. Ver EBS na conta <a href='https://github.com/tbarcelar/Python/blob/main/apiaws/ver-todos-ebs.py '> 
